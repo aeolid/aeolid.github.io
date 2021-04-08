@@ -1,64 +1,27 @@
 {
     "squares": [
-        {"name":".com", "links": [
-            {"name": "Facebook",  "url": "https://www.facebook.com"},
-            {"name": "Gmail", "url": "https://mail.google.com/mail/u/0/#inbox"},
-            {"name": "Pirate Bay", "url": "https://thepiratebay.org"},
-            {"name": "Twitter", "url": "https://www.twitter.com"},
-            {"name": "Amazon", "url": "https://www.amazon.ca"},                     
-            {"name": "SSavr",    "url": "https://www.ssavr.com"}
-
-        ]},
- 
-        {"name":".exe", "links": [
-            {"name": "Dota 2", "url": "https://www.reddit.com/r/dota2"},
-            {"name": "Darkest",    "url": "https://www.reddit.com/r/darkestdungeon"},
-            {"name": "Divinity",    "url": "https://www.reddit.com/r/divinityoriginalsin"},
-            {"name": "Rainbow 6",    "url": "https://www.reddit.com/r/rainbow6"},
-            {"name": "XCOM",    "url": "https://www.reddit.com/r/xcom"},
-            {"name": "Game Discussion", "url": "https://www.reddit.com/r/games"},
-            {"name": "Dungeons & Dragons",    "url": "https://www.reddit.com/r/dnd"},
-            {"name": "Magic: the Gathering",  "url": "https://www.reddit.com/r/magictcg"}
+        {"name":".ca", "links": [
+            {"name": "Gmail", "url": "https://mail.google.com/mail/u/0/#inbox"}
 
 
         ]},    
  
         {"name":".mp4", "links": [
-            {"name": "Feedly", "url": "https://feedly.com/i/latest"},
-            {"name": "Videos",    "url": "https://www.reddit.com/r/videos"},
-            {"name": "Youtube Haiku",    "url": "https://www.reddit.com/r/youtubehaiku"},
-            {"name": "Twitch.tv",  "url": "https://www.twitch.tv"},
-            {"name": "Artisan Videos",    "url": "https://www.reddit.com/r/artisanvideos"}
+            {"name": "yt", "url": "https://www.youtube.com/"},
+            {"name": "Fresh Bread",    "url": "https://www.youtube.com/c/DouchebagChocolat/playlists"},
+            {"name": "Twitch",  "url": "https://www.twitch.tv"},
+            {"name": "wsg",    "url": "https://boards.4channel.org/wsg/catalog"}
         ]},    
        
         {"name":".psd", "links": [
             {"name": "/wg/", "url": "http://www.4chan.org/wg/"},
             {"name": "/ic/",  "url": "http://www.4chan.org/ic/"},
             {"name": "/mu/",        "url": "http://www.4chan.org/mu/"},
-            {"name": "5e",    "url": "https://www.reddit.com/r/dndnext"},
+            {"name": "sad",    "url": "https://homebrewery.naturalcrit.com/user/aeolid8"},
+            {"name": "5e",    "url": "https://www.reddit.com/r/unearthedarcana/top"},
             {"name": "/tg/",     "url": "http://www.4chan.org/tg/"},
             {"name": "/tv/",       "url": "http://www.4chan.org/trash/"},
             {"name": "/g/",          "url": "http://www.4chan.org/g/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
-
-
-        ]},
-        
-        {"name":".html", "links": [
-            {"name": "/g/",          "url": "http://www.4chan.org/g/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
-
-            
-        ]},
-       
-        {"name":".pdf", "links": [
-            {"name": "omnivox",          "url": "http://www.4chan.org/vg/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
-            {"name": "/g/",          "url": "http://www.4chan.org/vg/"},
-            {"name": "/g/",          "url": "http://www.4chan.org/vg/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
-            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
-            {"name": "/g/",          "url": "http://www.4chan.org/vg/"},
             {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
 
 
@@ -73,6 +36,19 @@
             {"opt": "p", "url": "https://thepiratebay.org/search/",                 "space":"%20"},
             {"opt": "w", "url": "https://en.wikipedia.org/w/index.php?search=",       "space":"+"},
             {"opt": "y", "url": "https://www.youtube.com/results?search_query=",      "space":"+"}
+        ]},
+        
+                {"name":".pdf", "links": [
+            {"name": "omnivox",          "url": "http://www.4chan.org/vg/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
+            {"name": "/g/",          "url": "http://www.4chan.org/vg/"},
+            {"name": "/g/",          "url": "http://www.4chan.org/vg/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"},
+            {"name": "/g/",          "url": "http://www.4chan.org/vg/"},
+            {"name": "/vg/",      "url": "http://www.4chan.org/vg/"}
+
+
         ]}
     ],
  
